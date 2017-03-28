@@ -102,9 +102,9 @@
 		<junit.version>4.6</junit.version>
 		<jboss-j2ee.version>4.0.0</jboss-j2ee.version>
 		<jexcelapi.version>2.6.12</jexcelapi.version>
-		<spring.version>3.1.1.RELEASE</spring.version>
+		<spring.version>4.2.5.RELEASE</spring.version>
 		<spring.javax.validation.version>1.0.0.GA</spring.javax.validation.version>
-		<spring-security.version>3.1.0.RELEASE</spring-security.version>
+		<spring-security.version>4.2.2.RELEASE</spring-security.version>
 	</properties>
 
 	<dependencies>
