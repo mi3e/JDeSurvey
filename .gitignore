@@ -6,3 +6,6 @@
 .settings/
 target/
 bin/
+*.iml
+tm.out
+.idea/
